@@ -1,3 +1,5 @@
+import React from "react";
+
 export const Orders = () => {
   //  Get all data when admin logs in and populate it
   // store it in redux

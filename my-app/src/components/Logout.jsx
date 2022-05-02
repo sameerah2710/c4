@@ -1,3 +1,4 @@
+import React from "react";
 export const Logout = () => {
   // Logout component, just log user out and take him to `/` homepage
 
